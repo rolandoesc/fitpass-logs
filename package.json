@@ -1,0 +1,22 @@
+{
+  "name": "parse.js",
+  "version": "1.0.0",
+  "description": "Filtering method for fitpass logs",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandoesc/fitpass-logs.git"
+  },
+  "author": "rolando.escalona@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandoesc/fitpass-logs/issues"
+  },
+  "homepage": "https://github.com/rolandoesc/fitpass-logs#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
